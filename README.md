@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for help with **learning things**
 
-- 📫 How to reach me **gilbertsm2004@gmail.com**
-
 <p align="left">
 </p>
 
