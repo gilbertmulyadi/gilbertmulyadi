@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilbert</h1>
 <h3 align="center">A Passionate Student who loves to learn new things</h3>
 
-- 🌱 I’m currently learning **Laravel, PHP, Phyton,and Matlab**
-
-- 🤝 I’m looking for help with **learning things**
+- 🌱 I’m currently learning new stuff.
 
 <p align="left">
 </p>
